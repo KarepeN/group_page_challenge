@@ -2,9 +2,9 @@
 
 ## Lindsey Fares
 
-
-
-
+* Cooking / Baking
+* Drawing
+* Creative Writing
 
 
 ## Kurt Vohra
