@@ -37,3 +37,7 @@
 * Cooking
 
 ### Favourite Food
+
+* Salman
+* Okra fry
+* Biryani
