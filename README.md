@@ -13,7 +13,7 @@
 * Pizza
 
 
-## Kunal Vohra - [GitHub](https://github.com/kvohra93)
+## Kunal Vohra - https://github.com/kvohra93
 
 ### Hobbies
 
@@ -28,7 +28,7 @@
 * Kidney Beans and Rice cooked in Indian Style
 
 
-## Nithya Karepe
+## Nithya Karepe - https://github.com/KarepeN
 
 ### Hobbies
 
