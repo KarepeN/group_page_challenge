@@ -13,7 +13,7 @@
 * Pizza
 
 
-## Kunal Vohra - https://github.com/kvohra93
+## Kunal Vohra - [GitHub](https://github.com/kvohra93)
 
 ### Hobbies
 
