@@ -2,8 +2,9 @@
 
 ## Nithya Karepe
 
-
-
+* Gardening
+* Painting
+* Cooking
 
 
 ## Lindsey Fares
