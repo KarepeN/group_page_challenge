@@ -1,6 +1,6 @@
 # group_page_challenge
 
-## Lindsey Fares - https://github.com/lrfares1996
+## [Lindsey Fares](https://github.com/lrfares1996)
 
 ### Hobbies
 * Cooking / Baking
@@ -13,7 +13,7 @@
 * Pizza
 
 
-## Kunal Vohra - https://github.com/kvohra93
+## [Kunal Vohra](https://github.com/kvohra93)
 
 ### Hobbies
 
@@ -28,7 +28,7 @@
 * Kidney Beans and Rice cooked in Indian Style
 
 
-## Nithya Karepe - https://github.com/KarepeN
+## [Nithya Karepe](https://github.com/KarepeN)
 
 ### Hobbies
 
