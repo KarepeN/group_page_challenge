@@ -1,6 +1,6 @@
 # group_page_challenge
 
-## Lindsey Fares
+## Lindsey Fares - https://github.com/lrfares1996
 
 ### Hobbies
 * Cooking / Baking
